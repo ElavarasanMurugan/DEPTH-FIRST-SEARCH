@@ -81,10 +81,16 @@ C D <BR>
 D E <BR>
 D G <BR>
 G F <BR>
+A <BR>
+
 <hr>
 <h3>Sample Output</h3>
 <hr>
 ['A', 'B', 'C', 'F', 'E', 'D', 'G']
+
+<BR><BR>
+
+![alt text](images/image.png)
 
 <hr>
 
@@ -98,11 +104,17 @@ G F <BR>
 1 3 <BR>
 2 4 <BR>
 3 4 <BR>
+0 <BR>
+
 <hr>
 <h3>Sample Output</h3>
 <hr>
 ['0', '1', '2', '3', '4']
 <hr>
+<BR><BR>
+
+![alt text](images/image-1.png)
+
 <h3>Result:</h3>
 <hr>
 <p>Thus,a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.</p>
