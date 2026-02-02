@@ -122,7 +122,7 @@ A <BR>
 <hr>
 ['A', 'B', 'C', 'F', 'E', 'D', 'G']
 
-<BR><BR>
+<BR>
 
 ![alt text](images/image.png)
 
@@ -144,11 +144,11 @@ A <BR>
 <h3>Sample Output</h3>
 <hr>
 ['0', '1', '2', '3', '4']
-<hr>
-<BR><BR>
+<BR>
 
 ![alt text](images/image-1.png)
 
+<hr>
 <h3>Result:</h3>
 <hr>
 <p>Thus,a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.</p>
